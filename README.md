@@ -11,7 +11,6 @@ There is two actor:
        c) Update the account
           (Only the acoount holder name, address,user_id,Password)
        d) See all the details of customer
-       
        e) See all the transaction
        
     2. Customer can access...
